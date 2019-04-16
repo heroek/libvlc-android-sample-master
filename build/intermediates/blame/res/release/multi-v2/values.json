@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/marcobambili/Desktop/libvlc-android-sample-master/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/marcobambili/Desktop/libvlc-android-sample-master/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/Users/marcobambili/Desktop/libvlc-android-sample-master/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "11,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "553,844",
+                        "endLines": "17,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "839,999"
+                    }
+                },
+                {
+                    "source": "/Users/marcobambili/Desktop/libvlc-android-sample-master/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "56,109,168,208,289,356,400",
+                        "endColumns": "52,58,39,80,66,43,39",
+                        "endOffsets": "104,163,203,284,351,395,435"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,281,321,402,469,513",
+                        "endColumns": "52,58,39,80,66,43,39",
+                        "endOffsets": "217,276,316,397,464,508,548"
+                    }
+                }
+            ]
+        }
+    ]
+}

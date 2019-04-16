@@ -1,0 +1,26 @@
+com.compdigitec.libvlcandroidsample
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+drawable ic_launcher
+drawable ic_menu_refresh
+id action_refresh
+id action_settings
+id linearLayout
+id load_a_mp3
+id mediaView
+id radioAudio
+id radioVideo
+id surface
+id textView1
+layout activity_main
+layout sample
+menu main
+string action_settings
+string app_name
+string audio
+string hello_world
+string load_a_mp3
+string refresh
+string video
+style AppBaseTheme
+style AppTheme

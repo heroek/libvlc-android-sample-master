@@ -1,0 +1,4 @@
+#Tue Apr 16 16:58:16 CEST 2019
+base.0=/Users/marcobambili/Desktop/libvlc-android-sample-master/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex
